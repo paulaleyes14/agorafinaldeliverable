@@ -1,0 +1,44 @@
+#head {
+    font-size: 30px;
+}
+
+#heart-img {
+    float: left;
+}
+
+#emailText {
+    margin-left: 50px;
+}
+
+#passwordText {
+    margin-left: 50px;
+}
+
+#paragraph {
+    margin-left: 50px;
+}
+
+#login {
+    margin-left: 50px;
+}
+
+#online-dating {
+    position: absolute;
+    left: 55%;
+    top: 45%;
+    transform: translate(-50%, -50%)
+}
+
+#left {
+    position: fixed;
+    width: 20%;
+    left: 0;
+    height: 100%;
+}
+
+#right {
+    position: fixed;
+    width: 80%;
+    left: 20%;
+    height: 100%;
+}
